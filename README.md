@@ -65,21 +65,31 @@ philosophy: Ship it, then make it honest.
 
 ## 🧰 Tools & Tech
 
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="Python" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" alt="Vite" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" alt="OpenAI" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="Go" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="45" height="45"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind&theme=dark" alt="Frontend" />
 </p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,openai,sqlite,docker&theme=dark" alt="Backend & AI" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,bash,vscode,figma,postgresql&theme=dark" alt="Tooling" />
+</p>
+
+<details>
+<summary>More I work with</summary>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,vue,svelte,angular,flutter,swift,kotlin&theme=dark" alt="More frameworks" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,rust,java,php,laravel,ruby,rails&theme=dark" alt="More languages" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kubernetes,redis,mongodb,graphql,aws,nginx,vercel&theme=dark" alt="Infra & data" />
+</p>
+
+</details>
+
 
 ---
 
