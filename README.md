@@ -10,7 +10,6 @@
 <p align="center">
   <a href="https://instagram.com/theyluvarhann"><img alt="Instagram" src="https://cdn.simpleicons.org/instagram/833AB4" width="42" height="42"></a>
   <a href="https://github.com/ArhanArif07"><img alt="GitHub" src="https://cdn.simpleicons.org/github/181717" width="42" height="42"></a>
-  <a href="https://linkedin.com/in/ArhanArif07"><img alt="LinkedIn" src="https://cdn.simpleicons.org/linkedin/0A66C2" width="42" height="42"></a>
 </p>
 
 <p align="center"><em>Turning "isn't verified" into "here's what it could be."</em></p>
