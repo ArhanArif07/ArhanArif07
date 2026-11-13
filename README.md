@@ -96,11 +96,10 @@ philosophy: Ship it, then make it honest.
 ## 📈 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ArhanArif07&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="./profile/stats.svg" alt="Arhan's GitHub Stats" height="175" />
+  <img src="./profile/top-langs.svg" alt="Top Languages" height="175" />
 </p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArhanArif07&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="165"/>
-</p>
+
 
 ---
 
