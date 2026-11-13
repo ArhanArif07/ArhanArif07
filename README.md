@@ -21,9 +21,9 @@
 | Project | What it does |
 |---|---|
 | **NumLeads** | AI lead-intelligence engine — finds real businesses with no verified website, verifies presence from live sources, and generates custom website demos via a real coding agent |
-| **Beacon** | AI career-powered copilot |
-| **Aether** | Personal deep RAG voice assistant |
-| **VelioLabs** · **Ganpatchat** | Web development projects |
+| **Beacon** | AI career-powered Guidance Platform for students struggling to find a perfect career path and roadmap for there career.|
+| **EONIS & ELYSSA** | Personal deep RAG voice assistant |
+| **VelioLabs** · **Indian Coffee Brewry** | Web development projects |
 
 I care about **honest systems** — NumLeads will never fabricate a business, a phone number or
 a statistic. If the data doesn't exist, it says so.
@@ -41,7 +41,7 @@ role: Self-Taught Developer
 experience: 2 years
 projects_completed: 8+
 
-currently_building: NumLeads
+currently_building: ELYSSA
 currently_learning: [AI Agents, LLM Tool Use, Retrieval, System Design]
 
 interests:
@@ -56,6 +56,7 @@ tools_i_reach_for_first:
   - React
   - FastAPI
   - SQLite
+  - AI
 
 philosophy: Ship it, then make it honest.
 ```
@@ -108,7 +109,6 @@ philosophy: Ship it, then make it honest.
 <p align="center">
   <a href="https://github.com/ArhanArif07?tab=repositories"><img alt="My Repositories" src="https://cdn.simpleicons.org/github/181717" width="38" height="38"></a>
   <a href="https://instagram.com/theyluvarhann"><img alt="Instagram" src="https://cdn.simpleicons.org/instagram/833AB4" width="38" height="38"></a>
-  <a href="https://linkedin.com/in/ArhanArif07"><img alt="LinkedIn" src="https://cdn.simpleicons.org/linkedin/0A66C2" width="38" height="38"></a>
 </p>
 
 <p align="center">
